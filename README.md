@@ -265,8 +265,7 @@
 1.	Aplicaremos una estrategia de supervisión de los indicadores de desempeño para evaluar el porcentaje de éxito en cada contratación del profesional de salud para medir las métricas de rendimiento de nuestra aplicación y sugerir cambios para el beneficio del usuario.
 2.	La segunda estrategia es desarrollar un ataque en cadena, como estamos inmersos en un ámbito tecnológico, no puedes atacar directamente al competidor más potente, pues cuenta con más medios que nosotros y podría ser contraproducente. Entonces debemos ir obteniendo mayor participación en el mercado atacando los mercados más pequeños y posicionándonos directamente en ellos.
 3.	La tercera estrategia por desarrollar es la maniobra envolvente, nosotros debemos evidenciar las debilidades de cada competidor y tomarlas en cuenta para mejorar nuestro producto.
-4.	La cuarta estrategia consiste en implementar una interfaz de búsqueda y envío de medicamentos a domicilio, para esto realizaremos asociaciones con las farmacias más conocidas en Perú (Mifarma, Inkafarma, etc.). De esta manera le permitimos al usuario obtener la medicación de forma más cómoda y rápida. Como la información de la receta médica y la dirección del usuario está registrada en nuestro sistema, dicha información será compartida con la farmacia, la cual a través de su servicio de delivery propio se hará cargo del envío. Esto nos permite tener ventaja adicional sobre nuestra competencia.
-5.	Finalmente, emplearemos la estrategia competitiva de diferenciación, consta en ofrecer un producto diferente con una interfaz única y con mejoras totalmente pensadas en la satisfacción del usuario.
+4.  Finalmente, emplearemos la estrategia competitiva de diferenciación, consta en ofrecer un producto diferente con una interfaz única y con mejoras totalmente pensadas en la satisfacción del usuario.
 
 ## 2.2.	Entrevistas.
 
