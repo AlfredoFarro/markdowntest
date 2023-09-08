@@ -11,28 +11,28 @@
 <tbody>
   <tr>
     <td colspan="3" rowspan="2">¿Por qué llevar a cabo este análisis? </td>
-    <td colspan="4">¿Cómo&nbsp;&nbsp;&nbsp;identificar a nuestros principales competidores?</td>
+    <td colspan="4">¿Cómo identificar a nuestros principales competidores?</td>
   </tr>
   <tr>
-    <td colspan="4">Con este análisis, podemos identificar el FODA,&nbsp;&nbsp;&nbsp;es decir, las fortalezas, oportunidades, debilidades y amenazas de nuestros&nbsp;&nbsp;&nbsp;competidores. Asimismo, se evalúa su participación en el mercado y qué&nbsp;&nbsp;&nbsp;estrategias se pueden desarrollar para que nuestra aplicación surja en el&nbsp;&nbsp;&nbsp;mercado laboral. Pero ¿Cómo identificamos a nuestros principales&nbsp;&nbsp;&nbsp;competidores?, Debemos estudiar el mercado e identificar las aplicaciones más&nbsp;&nbsp;&nbsp;usadas por los contratantes del servicio de los profesionales de la salud.&nbsp;&nbsp;&nbsp;Así se concluyó que los principales competidores son:</td>
+    <td colspan="4">Con este análisis, podemos identificar el FODA,   es decir, las fortalezas, oportunidades, debilidades y amenazas de nuestros   competidores. Asimismo, se evalúa su participación en el mercado y qué   estrategias se pueden desarrollar para que nuestra aplicación surja en el   mercado laboral. Pero ¿Cómo identificamos a nuestros principales   competidores?, Debemos estudiar el mercado e identificar las aplicaciones más   usadas por los contratantes del servicio de los profesionales de la salud.   Así se concluyó que los principales competidores son:</td>
   </tr>
   <tr>
     <td colspan="2" rowspan="5">(En la cabecera colocar por cada competidor nombre y logo)</td>
     <td colspan="2" rowspan="5">DocSeeker
 <br>
-<img src="Dockseeker.png" width="200" height="90" >
+<img src="assets/Dockseeker.png" width="200" height="90" >
 </td>
     <td rowspan="5">MedicApp
 <br>
-<img src="medicap.png" width="130" height="38" >
+<img src="assets/medicap.png" width="130" height="38" >
 </td>
     <td rowspan="5">MediQuo
 <br>
-<img src="mediquo.png" width="140" height="70" >
+<img src="assets/mediquo.png" width="140" height="70" >
 </td>
     <td rowspan="5">Heal
 <br>
-<img src="heal.png" width="90" height="90" >
+<img src="assets/heal.png" width="90" height="90" >
 </td>
   </tr>
   <tr>
@@ -379,14 +379,14 @@ En esta sección, mostraremos las preguntas que hemos generado para realizar las
 ### 2.2.2.	Registro de entrevistas.
 **Segmento 1: Personas con dificultad para movilizarse o sus familiares**
 1.	Entrevistado 1:
-    *	Nombres y Apellidos: Alexis Frogoziolo Lujan.
-    * Edad: 25 años
-    *	Distrito: Comas
-    *	Evidencia de la reunión:
-         ![](entre1.png)
-    *	URL de stream: https://web.microsoftstream.com/video/5c81c331-6307-4c7a-a2e5-148e2ff388d7
-    *	Timing y duración: 0:00 – 4:43
-    *	Resumen sobre la entrevista:
+      *	Nombres y Apellidos: Alexis Frogoziolo Lujan.
+      * Edad: 25 años
+      *	Distrito: Comas
+      *	Evidencia de la reunión:
+      * ![](assets/entre1.png)
+      *	URL de stream: https://web.microsoftstream.com/video/5c81c331-6307-4c7a-a2e5-148e2ff388d7
+      *	Timing y duración: 0:00 – 4:43
+      *	Resumen sobre la entrevista:
 
       La entrevista fue realizada a Alexis Frogoziolo Lujan, tiene 25 años y reside en Comas. Es un estudiante universitario, soltero y sus dispositivos de preferencia son su celular y su laptop. Sus principales canales digitales de interacción son WhatsApp e Instagram. Cuenta con habilidades como saber actuar en momentos difíciles. Además, cuenta con ciertas frustraciones como el estrés por el tiempo que cuida a su familiar discapacitado y no poder ayudar en todo a su abuela. Como se mencionó, él es una de las personas que se encargan del cuidado de un familiar con discapacidades, la cual necesita siempre de la compañía de alguien para su supervisión. Por ello, Alexis menciona que la ayuda o atención de un profesional de la salud en su domicilio le facilita el cuidado de su abuela, ya que ella requiere de constante observación y no puede realizar sus labores diarias sin preocuparse por si su familiar sigue con vida. Además, nos comentó que ha habido ciertas dificultades cuando lleva a su familiar a los hospitales, las cuales son como la demora de atención a los pacientes. De igual forma, Alexis asegura que son solo los familiares quienes se encargan de aplicar los medicamentos que son necesarios en el cuidado de su familiar. Por otro lado, con respecto a las plataformas de salud virtuales, él menciona que el principal factor de confianza en un doctor es que este sea verificado con papeles que avalen sus estudios, también piensa que el poder visualizar las recomendaciones, opiniones o experiencias de otros pacientes le sería de gran ayuda. Además, el entrevistado considera fundamental monitorear y controlar los análisis médicos hechos a su familiar.
 
@@ -396,7 +396,7 @@ En esta sección, mostraremos las preguntas que hemos generado para realizar las
     *	Edad: 22 años
     *	Distrito: Surco
     *	Evidencia de la reunión:
-         ![](entre2.png)
+    * ![](assets/entre2.png)
     *	URL del Stream: https://web.microsoftstream.com/video/fb420e56-41aa-4d79-bca6-7e4f05c4b69e
     *	Timing y duración: 0:00 – 4:49
     *	Resumen sobre la entrevista:
@@ -409,7 +409,7 @@ En esta sección, mostraremos las preguntas que hemos generado para realizar las
     *	Edad: 26 años
     *   Distrito: Miraflores
     *	Evidencia de la reunión:
-         ![](entre3.png)
+    *   ![](assets/entre3.png)
     *	URL de stream: https://web.microsoftstream.com/video/2b0f8d77-6af1-48d3-87cc-c592eb680c18
     *	Timing y duración: 0:00 – 7:14
     *	Resumen sobre la entrevista:
@@ -422,7 +422,7 @@ En esta sección, mostraremos las preguntas que hemos generado para realizar las
     *	Edad: 50 años
     *	Distrito: San Miguel
     *	Evidencia de la reunión:
-         ![](entre4.png)
+         ![](assets/entre4.png)
     *	URL de stream: https://web.microsoftstream.com/video/e3af4971-58d3-40e4-b21f-32b7f169c4bb
     *	Duración: 0:00 – 12:14
     *	Resumen sobre la entrevista:
@@ -435,7 +435,7 @@ En esta sección, mostraremos las preguntas que hemos generado para realizar las
     *	Edad: 51 años
     *	Distrito: Lima
     *	Evidencia de la reunión:
-         ![](entre5.png)
+    *   ![](assets/entre5.png)
     *	URL de stream: https://web.microsoftstream.com/video/4e58e484-c56a-4af7-96e9-57bd5605f1db
     *	Duración: 0:00 – 8:23
     *	Resumen sobre la entrevista:
@@ -528,11 +528,11 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 **User Persona – Familiares de pacientes con discapacidad o alguna limitación.**
 
-![](userpersona1.png)
+![](assets/userpersona1.png)
 
 **User Persona – Profesionales de la Salud (Doctores, enfermeros, etc.).**
 
-![](userpersona2.png)
+![](assets/userpersona2.png)
 
 ### 2.3.2.	User Task Matrix.
 En esta etapa nos enfocaremos en las tareas que los User Personas familiares de adultos mayores o personas con limitación física o mental, representados por Juan Mercedes. Asimismo, el segundo User Persona que son los profesionales de la salud, representados por Alejandra Mendoza. realizan para alcanzar su propósito, teniendo como segmentos objetivos a los pacientes con dificultades para movilizarse o sus familiares y, los profesionales de la salud.
@@ -540,80 +540,80 @@ En esta etapa nos enfocaremos en las tareas que los User Personas familiares de 
 <table>
 <thead>
   <tr>
-    <th rowspan="2">   <br>User Task Matrix.   </th>
-    <th colspan="2">&nbsp;&nbsp;&nbsp;<br>Juan Mercedes&nbsp;&nbsp;&nbsp;</th>
-    <th colspan="2">&nbsp;&nbsp;&nbsp;<br>Alejandra Mendoza&nbsp;&nbsp;&nbsp;</th>
+    <th rowspan="2"><br>User Task Matrix.</th>
+    <th colspan="2"><br>Juan Mercedes</th>
+    <th colspan="2"><br>Alejandra Mendoza</th>
   </tr>
   <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Frecuencia&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Importancia&nbsp;&nbsp;&nbsp;</th>
+    <th><br>Frecuencia</th>
+    <th><br>Importancia</th>
+    <th><br>Frecuencia</th>
+    <th><br>Importancia</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>   <br>Supervisar el comportamiento del paciente durante el día   </td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Always&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Always&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+    <td><br>Supervisar el comportamiento del paciente durante el día</td>
+    <td><br>Always</td>
+    <td><br>High</td>
+    <td><br>Always</td>
+    <td><br>High</td>
   </tr>
   <tr>
-    <td>   <br>Ayudar a movilizar a los pacientes     </td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Always&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Always&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+    <td><br>Ayudar a movilizar a los pacientes</td>
+    <td><br>Always</td>
+    <td><br>Medium</td>
+    <td><br>Always</td>
+    <td><br>High</td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Realizar exámenes médicos&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Always&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Realizar exámenes médicos   </td>
+    <td>   <br>Rarely   </td>
+    <td>   <br>High   </td>
+    <td>   <br>Always   </td>
+    <td>   <br>High   </td>
   </tr>
   <tr>
     <td>   <br>Aplicar medicamentos y/o tratamiento   </td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Always&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Always   </td>
+    <td>   <br>Medium   </td>
+    <td>   <br>Often   </td>
+    <td>   <br>Medium   </td>
   </tr>
   <tr>
     <td>   <br>Buscar al personal de la salud más adecuado   </td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Low&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Often   </td>
+    <td>   <br>High   </td>
+    <td>   <br>Rarely   </td>
+    <td>   <br>Low   </td>
   </tr>
   <tr>
     <td>   <br>Contratar a un personal de la salud   </td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Low&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Often   </td>
+    <td>   <br>High   </td>
+    <td>   <br>Rarely   </td>
+    <td>   <br>Low   </td>
   </tr>
   <tr>
     <td>   <br>Verificar los resultados de sus análisis   </td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Medium&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Always&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Often   </td>
+    <td>   <br>Medium   </td>
+    <td>   <br>Always   </td>
+    <td>   <br>High   </td>
   </tr>
   <tr>
     <td>   <br>Conseguir unidad médica para transportarlo   </td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Often&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Low&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Often   </td>
+    <td>   <br>Low   </td>
+    <td>   <br>Rarely   </td>
+    <td>   <br>High   </td>
   </tr>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>Registrar condición del paciente&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Rarely&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Low&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Always&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>High&nbsp;&nbsp;&nbsp;</td>
+    <td>   <br>Registrar condición del paciente   </td>
+    <td>   <br>Rarely   </td>
+    <td>   <br>Low   </td>
+    <td>   <br>Always   </td>
+    <td>   <br>High   </td>
   </tr>
 </tbody>
 </table>
@@ -633,14 +633,14 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
 
 <figure style="text-align: center">
     <figcaption > Segmento 1: Familiar de la persona con limitación.</figcaption>
-    <img src="userjourney1.png"
+    <img src="assets/userjourney1.png"
          alt="">
 </figure>
 
 
 <figure style="text-align: center">
     <figcaption >Segmento 2: Profesional de la Salud.</figcaption>
-    <img src="userjourney2.png" 
+    <img src="assets/userjourney2.png" 
          alt="">
 </figure>
 
@@ -649,13 +649,13 @@ En esta sección se presenta el Empathy Mapping de nuestros 2 segmentos objetivo
 
 <figure style="text-align: center">
     <figcaption> Segmento 1: Familiar de la persona con limitación.</figcaption>
-    <img src="empathymap1.png"
+    <img src="assets/empathymap1.png"
          alt="">
 </figure>
 
 <figure style="text-align: center">
     <figcaption > Segmento 2: Profesional de la Salud.</figcaption>
-    <img src="empathymap2.png"
+    <img src="assets/empathymap2.png"
          alt="">
 </figure>
 
@@ -664,13 +664,13 @@ En esta sección, se identificó las fases que podría presentar a nuestros User
 
 <figure style="text-align: center">
     <figcaption> Segmento 1: Familiar de la persona con limitación.</figcaption>
-    <img src="as-is1.png"
+    <img src="assets/as-is1.png"
          alt="">
 </figure>
 
 <figure style="text-align: center">
     <figcaption > Segmento 2: Profesional de la Salud.</figcaption>
-    <img src="as-is2.png"
+    <img src="assets/as-is2.png"
          alt="">
 </figure>
 
